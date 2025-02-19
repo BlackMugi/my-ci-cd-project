@@ -18,10 +18,10 @@
   "homepage": "https://github.com/BlackMugi/my-ci-cd-project#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2",
-    "jest": "^29.7.0"
+    "express": "^4.21.2"
   },
   "devDependencies": {
+    "jest": "^29.7.0",
     "supertest": "^7.0.0"
   }
 }
